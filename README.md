@@ -9,20 +9,17 @@ The project also included the option to view attendance for which csv library wa
 
 The photos attached below show a demonstration of this project.
 
-![Screenshot (308)](https://github.com/user-attachments/assets/44588457-37b0-41ae-8b2f-86c32cc001ca)
+![Screenshot (308)](https://github.com/user-attachments/assets/0bcb37bc-e561-4e4c-923b-2e0874f3394d)
 
-![Screenshot (309)](https://github.com/user-attachments/assets/898a375c-fb6a-4bfd-b24d-133315af5a59)
+![Screenshot (309)](https://github.com/user-attachments/assets/f67d5203-ccfe-47b2-aa77-1367a7ab7af7)
 
-![Screenshot (310)](https://github.com/user-attachments/assets/4ebc68b0-cd53-4e9d-a8b4-ae8e013b12e3)
+![Screenshot (310)](https://github.com/user-attachments/assets/674ce01d-38ee-40be-a5b3-d3b68298dfe2)
 
-![Screenshot (311)](https://github.com/user-attachments/assets/35ddf397-bfb2-4619-bcdf-914a2aa4be86)
+![Screenshot (311)](https://github.com/user-attachments/assets/3a5afcaa-4158-4d51-baa4-aa4d3f86b748)
 
-![Screenshot (313)](https://github.com/user-attachments/assets/2faeb510-f784-4f12-8de4-ce190ccfacc7)
+![Screenshot (314)](https://github.com/user-attachments/assets/c7a16bcd-9145-4b38-8465-830e3d23ae47)
 
-![Screenshot (314)](https://github.com/user-attachments/assets/2917a226-78fc-46ab-b3e7-0ac68f6201e9)
+![Screenshot (315)](https://github.com/user-attachments/assets/a73b33f7-acfe-48a4-8673-0e8a5e0400e1)
 
-![Screenshot (315)](https://github.com/user-attachments/assets/da010808-915b-4f98-8567-500d0550a72a)
-
-
-
+![Screenshot (298)](https://github.com/user-attachments/assets/4d471243-c392-45b4-963a-84f90b42d090)
 
